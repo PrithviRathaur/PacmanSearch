@@ -12,7 +12,7 @@ I have built the general search algorithms, such as a Depth First Search, Breadt
 
 ### Testing out the Code
 
-First one will need to clone this repo. To start off, I recommend just running the following command: 
+First, one will need to clone this repo. To start off, I recommend just running the following command: 
 
 ```bash
 python3 pacman.py
