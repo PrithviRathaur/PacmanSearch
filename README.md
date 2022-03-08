@@ -2,7 +2,7 @@
 
 This project involves developing a Pacman agent to that will find paths through various maze layouts. These paths are optimized to reach a location of the map or collect various pellets in the maze. 
 
-
+![PacmanMazeImage](maze.png)
 
 ## Project Description 
 
@@ -73,5 +73,5 @@ An even more difficult problem is finding the shortest path in eating all the fo
 
 ```bash
 python3 pacman.py -l testSearch -p AStarFoodSearchAgent
-python 3pacman.py -l trickySearch -p AStarFoodSearchAgent
+python3 pacman.py -l trickySearch -p AStarFoodSearchAgent
 ```
