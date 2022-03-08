@@ -71,7 +71,7 @@ python3 pacman.py -l mediumCorners -p AStarCornersAgent -z 0.5
 
 An even more difficult problem is finding the shortest path in eating all the food in the maze. A heuristic for this problem can be found in **searchAgents.py**. To test the heuristic, run the following commands: 
 
-``bash
+```bash
 python3 pacman.py -l testSearch -p AStarFoodSearchAgent
 python 3pacman.py -l trickySearch -p AStarFoodSearchAgent
 ```
